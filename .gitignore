@@ -1,0 +1,24 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+target/
+.gradle/
+*.bak
+*.log
+developer-stuff/
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Project exclude paths
+/.mvn/

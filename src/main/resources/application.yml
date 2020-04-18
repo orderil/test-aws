@@ -1,0 +1,7 @@
+application:
+  guidObfuscationMultiplier: 27
+  maxPlansPerUser: 20
+  outputPath: /tmp/drugservice/output/
+  sqliteDbName: formulary.sqlite
+  statusFileName: status
+  zipFileName: formulary.sqlite.zip
